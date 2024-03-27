@@ -1,11 +1,158 @@
 {
     "gloves":[
         {
-            "name": "Iphone 8",
-            "desc_short": "",
-            "desc_long": "",
-            "use":"",
-            "":""
+            "name": "Mecano",
+            "desc_short": "G13 Jersey poliamida bañado en nitrilo. Dorso ventilado.",
+            "desc_long": "Guante tejido en poliamida de una sola pieza. Ofrece un excelente agarre gracias al baño de nitrilo que evita el deslizamiento, pensado para el uso en mecánica general, lubricentros o cualquier actividad que involucre el uso de grasa, aceite, combustibles y derivados, ofrece también protección en la manipulación de materiales con nivel medio de corte. Antideslizamiento producido por la resistencia mecánica del nitrilo.",
+            "use":"Uso general, para tareas que tengan riesgos intermedios en contacto con hidrocarburos y sus derivados.",
+            "img":""
+        },
+        {
+            "name": "Mecano ULV",
+            "desc_short": "G13 Jersey poliamida bañado en nitrilo ULV. Dorso ventilado.",
+            "desc_long": "Guante tejido en poliamida de una sola pieza. Diseñado para usar con combustibles, grasas, aceite y sustancias similares. Absorbe rápidamente la transpiración de la mano manteniéndola seca. Remplaza al PU con todas las ventajas del nitrilo. Mayor dexteridad y confort. Ideal para la manipulación de materiales con nivel medio de corte. Antideslizamiento producido por la resistencia mecánica del nitrilo",
+            "use":"Uso general, para tareas que tengan riesgos intermedios%Tipo de material a manipular: hidrocarburo.",
+            "img":""
+        },
+        {
+            "name":"CR5 Nitrilo",
+            "desc_short":"G13 CR5 Anticorte bañado en nitrilo. Dorso ventilado.",
+            "desc_long":"Guante diseñado y recomendado para tareas donde se necesite gran dexteridad para asegurar las piezas con firmeza, especialmente en ambientes impregnados de grasas, aceite o combustibles dando sensibilidad al tacto. Máxima resistencia a la abrasión,desgarro y punción. Monopiezas sin costura interna.",
+            "use":"Industria mecánica-metalúrgica donde las tareas ejecutadas involucren un alto riesgo de corte- automotriz – autopartes.%Tipo de material a manipular: hidrocarburo.",
+            "img":""
+        },
+        {
+            "name":"CR5 Nitrilo ULV",
+            "desc_short":"G13 CR5 Anticorte bañado en nitrilo ULV. Dorso ventilado.",
+            "desc_long":"Guante diseñado y recomendado para tareas donde se necesite gran dexteridad para asegurar las piezas con firmeza, especialmente en ambientes impregnados de grasas, aceite o combustibles. Reemplaza al PU con todas las ventajas del nitrilo, máxima resistencia al corte sin sacrificar sensibilidad al tacto. Máxima resistencia a la abrasión,desgarro y punción. Monopiezas sin costura interna.",
+            "use":"Industria mecánica-metalúrgica donde las tareas ejecutadas involucren un alto riesgo de corte. Automotriz y autopartes.%Tipo de material a manipular: hidrocarburo.",
+            "img":""
+        },
+        {
+            "name":"Cargo Nitrilo Puño de seguridad Anti-impacto",
+            "desc_short":"G13 Jersey con puño de seguridad largo de 12 cm bañado en nitrilo dorso cubierto con anti-impacto. ",
+            "desc_long":"Guante para tareas que tengan riesgos intermedios. Especialmente pensados para usar con combustibles, grasas y derivados donde existan altos riesgos de impactos. Su puño de seguridad ancho con un largo de 12 cm que facilita una rápida extracción y brinda mayor protección a la muñeca y antebrazo. Absorben rápidamente la transpiración de la mano manteniéndola constantemente seca. Ideal para la manipulación de material con nivel medio de corte.%Antideslizamiento producido por la resistencia mecánica del Nitrilo.",
+            "use":"Uso general para tareas que tengan riesgos intermedios de corte y alto riesgo de impacto en  elementos con hidrocarburos y sus derivados.%Material a manipular: Hidrocarburos.",
+            "img":""
+        },
+        {
+            "name":"Cargo Nitrilo Puño De Seguridad",
+            "desc_short":"G13 Jersey con puño de seguridad bañado en nitrilo. Dorso cubierto.",
+            "desc_long":"Especialmente pensados para usar con combustibles, grasas y derivados. Absorben rápidamente la transpiración de la mano manteniéndola constantemente seca. Ideal para la manipulación de material con nivel medio de corte. Antideslizamiento producido por la resistencia mecánica del Nitrilo. Su puño de seguridad ancho facilita una rápida extracción y brinda mayor protección a la muñeca y antebrazo.",
+            "use":"Uso general, para tareas que tengan riesgos intermedios en contacto con hidrocarburos y sus derivados.%Tipo de material a manipular: hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"Xtreme 5 Puño Corto",
+            "desc_short":"Guante tejido G13 jersey CR5 (hilado anticorte) bañado en nitrilo dorso cubierto con puño corto + apliques anti-impacto.",
+            "desc_long":"Especialmente pensados para trabajar con combustibles, grasas y derivados. Posee los máximos índices de protección de abrasión, corte, desgarro y punción. Gran protección a golpes con su exclusivo diseño de apliques anti-impacto sobre el dorso de la mano.",
+            "use":"Industria petroquímica y metalmecánica, para tareas donde existan altos riesgos de impactos y cortes.%Tipo de material a manipular: hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"Xtreme 5 Puño Largo",
+            "desc_short":"Guante tejido G13 jersey CR5 (hilado anticorte) bañado en nitrilo dorso cubierto con puño de seguridad + apliques anti-impacto.",
+            "desc_long":"Especialmente pensados para trabajar con combustibles, grasas y derivados. Posee los máximos índices de protección de abrasión, corte, desgarro y punción. Gran protección a golpes con su exclusivo diseño de apliques anti-impacto sobre el dorso de la mano. Su puño de seguridad ancho con un largo de 32 cm  facilita una rápida extracción y brinda mayor protección a la muñeca y antebrazo. ",
+            "use":"Industria petroquímica y metalmecánica, para tareas donde existan altos riesgos de impactos y cortes.%Tipo de material a manipular: hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"Garra",
+            "desc_short":"G13 Jersey poliamida bañado en latex. Dorso ventilado.",
+            "desc_long":"Guante tejido en poliamida de una sola pieza. Especialmente diseñado para usar en tareas donde se requiera mucho agarre o en contacto con superficies húmedas, absorbe rápidamente la transpiración de la mano manteniéndola seca. Ideal para manipulación de material con nivel medio de corte. Antideslizamiento producido por resistencia mecánica del látex natural.",
+            "use":"Uso general, para tareas que tengan riesgos intermedios. Albañilería, carpintería, manipulación de plástico y maderas.%Tipo de material a manipular: húmedo-no hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"Garra II",
+            "desc_short":"G13 Jersey de algodón / poliéster bañado en látex. Dorso ventilado.",
+            "desc_long":"Especialmente diseñado para usar en tareas donde se requiera mucho agarre o en contacto con superficies húmedas. Absorbe rápido la transpiración de la mano manteniéndola seca. Ideal para manipulación de material con nivel medio de corte. Antideslizamiento producido por la resistencia mecánica del látex natural, pensado para manipular elementos a temperatura dentro del rango de 100ºC a 250ºC, la cual la persona que lleva el guante no sentirá ningún tipo de dolor -para un período de por lo menos 15 segundos, soporta presencia mínimas de chispas.",
+            "use":"Uso general, para tareas que tengan riesgos intermedios. manipulación de piezas a pasar por amoladora.%Tipo de material a manipular: húmedo-no hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"CR5 látex",
+            "desc_short":"G13 CR5 anticorte bañado en látex. Dorso ventilado.",
+            "desc_long":"Elaborado con hilado CR5 , gran dexteridad y resistencia a la abrasión. No desprende pelusas. Excelente agarre provisto por el recubrimiento de látex natural rugoso para manipular materiales húmedos. Elaborado con hilado CR5.",
+            "use":"Industria alimenticia y metalúrgica donde existan altos riesgos de corte. Manipulación de vidrios.",
+            "img":""
+        },
+        {
+            "name":"Jardinero Flúo",
+            "desc_short":"G13 Jersey poliamida bañado en látex. Dorso ventilado.",
+            "desc_long":"Especialmente diseñado para usar en tareas de jardinería donde se requiera mucho agarre o en contacto con superficies húmedas, absorbe rápidamente la transpiración de la mano manteniéndola seca. Ideal para manipulación de material con nivel medio de corte. Antideslizamiento producido por resistencia mecánica del látex natural.",
+            "use":"Uso general, para tareas que tengan riesgos intermedios.%Tipo de material a manipular: húmedo-no hidrocarburo",
+            "img":""
+        },
+        {
+            "name":"Terry Cloth Pesado Liso",
+            "desc_short":"G7 Jersey tejido terry cloth algodón pesado con repuesto de poliéster.",
+            "desc_long":"Ideal para la manipulación de materiales con nivel medio de corte. Anti Deslizamiento producido por el rozamiento y la resistencia mecánica de los rizos que caracterizan a este tipo de tejidos, gracias a esta característica se mejora la protección y el aislamiento contra el calor. Monopiezas sin costuras internas, gran dexteridad y confort. Al ser tejido pesado da mayor resistencia al rasgado.",
+            "use":"Manipulación de chapas y metalmecánica.",
+            "img":""
+        },
+        {
+            "name":"Terry Cloth Liviano Liso",
+            "desc_short":"G7 Jersey tejido terry cloth algodón con repuesto de poliéster.",
+            "desc_long":"Ideal para la manipulación de materiales con nivel medio de corte. Anti Deslizamiento producido por el rozamiento y la resistencia mecánica de los rizos que caracterizan a este tipo de tejidos, gracias a esta característica se mejora la protección y el aislamiento contra el calor. Monopiezas sin costuras internas, gran dexteridad y confort.",
+            "use":"Manipulación de chapas y metalmecánica.%Tipo de material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"CR5",
+            "desc_short":"G13 CR5 Anticorte.",
+            "desc_long":"Guante especialmente diseñado donde se requiera gran dexteridad para poder asegurar las piezas con firmeza. Resistente a la abrasión y corte sin sacrificar sensibilidad al tacto. Monopiezas sin costuras internas, ambidiestros, gran confort.",
+            "use":"Industria alimenticia, metalmecánica y metalúrgica, para tareas donde exista alto riesgo de corte.%Tipo de material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"Multiuso Liso",
+            "desc_short":"G13 Jersey de poliamida.",
+            "desc_long":"Guante de poliamida de una sola pieza. Apto para tareas generales donde se requiera manipulación de piezas muy pequeñas. Antiestático, anatómico, de gran dexteridad y confort.",
+            "use":"Industria automotriz y electrónica.%Tipo de material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"Multiuso Moteado",
+            "desc_short":"G13 Jersey de poliamida.",
+            "desc_long":"Guante de poliamida de una sola pieza. Apto para tareas generales donde se requiera manipulación de piezas muy pequeñas. Antiestático, anatómico, de gran dexteridad y confort. Antideslizamiento producido por resistencia mecánica del moteado dando mayor agarre a las piezas",
+            "use":"Industria automotriz y electrónica.%Tipo de material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"Contacto Liso",
+            "desc_short":"G13 Jersey tejido con 4 cabos crudos de nylon 66.",
+            "desc_long":"Guante tejido en poliamida de una sola pieza. Fabricado íntegramente sin costuras interiores. Ideal para la manipulación de piezas muy pequeñas y trabajos de inspección y calidad. Antiestático. Se adhiere perfectamente al contorno de la mano.",
+            "use":"Automotriz y montaje.%Tipo de material a manipular: seco.",
+            "img":""
+        },
+        {
+            "name":"Oficio 3 Cabos Moteado",
+            "desc_short":"G7 Jersey 3 cabos de algodón crudo moteado.",
+            "desc_long":"Guante tejido en una pieza, sin costuras. La presencia del algodón garantiza el confort y adaptabilidad de la mano absorbiendo la transpiración. El tejido calado favorece la ventilación evitando el calor. La versión de la línea MOTEADOS en PVC sobre una de sus caras, permite que este guante ofrezca un agarre firme sin limitar los movimientos, ideal para trabajos exigentes. Gracias a la protección y agarre logrados por su recubrimiento, es ideal para la manipulación de objetos o herramientas en ambientes secos.",
+            "use":"Uso general, para tareas de riesgos mínimos.%Tipo de material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"Profesional",
+            "desc_short":"G7 Jersey 3 cabos de algodón crudo reforzados con poliéster (3+1 / 3+2 / 3+3).",
+            "desc_long":"Guante tejido en una pieza, sin costuras.El tejido calado favorece la ventilación evitando el calor y transpiración de las manos. La fibra de ALGODÓN le proporciona volumen y estabilidad, y el POLIÉSTER lo convierte en un guante más resistente a las fuerzas mecánicas. Posee una mayor durabilidad gracias a la cantidad de poliéster. Presente en tres modelos: liso, moteado y doble moteado. La versión de la línea MOTEADOS en PVC permite que este guante ofrezca un agarre firme sin limitar los movimientos, ideal para trabajos exigentes gracias a la protección y agarre logrados por su recubrimiento. Es ideal para la manipulación de objetos o herramientas, en ambientes secos.",
+            "use":"Uso general, para tareas que no tengan riesgos importantes de corte, punción o alta temperatura.%Material a manipular: seco",
+            "img":""
+        },
+        {
+            "name":"Oficio 4 Cabos Liso",
+            "desc_short":"G7 Jersey 4 cabos de algodón crudo, superficie lisa.",
+            "desc_long":"Guante tejido en una pieza, sin costuras. Garantiza la ventilación de las manos, evitando el calor y la transpiración. La fibra de ALGODÓN le proporciona volumen y estabilidad; siendo más resistente, por su estructura gruesa, para trabajos de manipulación en actividades más pesadas.",
+            "use":"Uso general, para tareas que no tengan riesgos importantes.",
+            "img":""
+        },
+        {
+            "name":"Contacto Moteado",
+            "desc_short":"G13 tejido de poliamida de una sola pieza.",
+            "desc_long":"Fabricado íntegramente sin costuras interiores. Ideal para la manipulación de piezas muy pequeñas y trabajos de inspección. Antiestático. Se adhiere perfectamente al contorno de la mano. Las motas de PVC sobre una de sus caras permiten que este guante ofrezca un agarre firme sobre la piezas sin limitar los movimientos.",
+            "use":"Automotriz y montaje.%Tipo de material a manipular: seco",
+            "img":""
         }
     ]
 }
